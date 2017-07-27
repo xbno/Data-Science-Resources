@@ -1,6 +1,8 @@
 
 ## Python
 * Google’s Python Intro: https://developers.google.com/edu/python/
+* Python/Coding 101: http://interactivepython.org/runestone/static/thinkcspy/index.html#
+* Python/Software Engineering 101: http://interactivepython.org/runestone/static/pythonds/index.html
 * Another Introductory Python Resource: http://introtopython.org
 * Crash Course in Python for Scientists: http://nbviewer.jupyter.org/gist/rpmuller/5920182
 * Visualize Python Code via Python Tutor: http://pythontutor.com
